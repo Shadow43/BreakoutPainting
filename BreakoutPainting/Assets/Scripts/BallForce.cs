@@ -32,6 +32,8 @@ public class BallForce : MonoBehaviour {
             Destroy(this.gameObject);
             var p = FindObjectOfType<Player>();
             p.OnPlayerDied();
+            var d = FindObjectOfType<PlayerLife>();
+            d.OnPlayerDeath();
         }
     }
 

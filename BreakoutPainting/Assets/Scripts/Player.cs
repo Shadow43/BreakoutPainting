@@ -10,16 +10,18 @@ public class Player : MonoBehaviour {
     private float x;
     private float y;
     // clamping code
-    private float XMaxMin = -2.9f;
-    private float XMaxMax = 2.9f;
+    private float XMaxMin = -2.71f;
+    private float XMaxMax = 2.71f;
     private float YMaxMin = -6.76f;
-    private float YMaxMax = -4f;
+    private float YMaxMax = -5.76f;
     public GameObject prefab;
     public Transform spawnAt;
+    public int paintedblocks;
 
     // Use this for initialization
     void Start ()
     {
+        paintedblocks = 0;
         OnPlayerDied();
     }
 
@@ -80,5 +82,9 @@ public class Player : MonoBehaviour {
         GameObject go;
         go = Instantiate(prefab, spawnAt.position, prefab.transform.rotation) as GameObject;
         go.transform.SetParent(transform,true);
+    }
+    public void PanitedBlocks()
+    {
+        paintedblocks += 1;
     }
 }

@@ -33,4 +33,10 @@ public class PlayerLife : MonoBehaviour {
             playerdead = true;
         }
         }
+    public void OnPlayerDeath()
+    {
+        AlphaTransparancy += 0.08f;
+        image = GetComponent<Image>();
+        image.color = new Color(0, 0, 0, AlphaTransparancy);
+    }
     }

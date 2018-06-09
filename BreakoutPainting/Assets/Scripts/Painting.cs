@@ -5,10 +5,12 @@ using UnityEngine;
 public class Painting : MonoBehaviour {
     private bool ispainted = false;
     public GameObject ball;
+    Collider2D m_ObjectCollider;
 
     // Use this for initialization
     void Start() {
-
+        m_ObjectCollider = GetComponent<Collider2D>();
+        m_ObjectCollider.isTrigger = false;
     }
 
     // Update is called once per frame
@@ -18,10 +20,12 @@ public class Painting : MonoBehaviour {
             ball = GameObject.FindWithTag("Player");
         }
     }
-    private void OnTriggerEnter2D(Collider2D col)
+    public void OnCollisionEnter2D(Collision2D collision)
     {
-        if (ispainted == false)
-            GetComponent<Renderer>().material.color = ball.GetComponent<Renderer>().material.GetColor("_Color");
+        GetComponent<Renderer>().material.color = ball.GetComponent<Renderer>().material.GetColor("_Color");
+        var p = FindObjectOfType<Player>();
+        p.PanitedBlocks();
         ispainted = true;
+        m_ObjectCollider.isTrigger = true;
     }
 }
