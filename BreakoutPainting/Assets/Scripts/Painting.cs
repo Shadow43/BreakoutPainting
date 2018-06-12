@@ -22,10 +22,15 @@ public class Painting : MonoBehaviour {
     }
     public void OnCollisionEnter2D(Collision2D collision)
     {
-        GetComponent<Renderer>().material.color = ball.GetComponent<Renderer>().material.GetColor("_Color");
-        var p = FindObjectOfType<Player>();
-        p.PanitedBlocks();
-        ispainted = true;
-        m_ObjectCollider.isTrigger = true;
+        if (ispainted == false)
+        {
+            GetComponent<Renderer>().material.color = ball.GetComponent<Renderer>().material.GetColor("_Color");
+            var p = FindObjectOfType<Player>();
+            p.PanitedBlocks();
+            var d = FindObjectOfType<PlayerLife>();
+            d.OnPlayerPaint();
+            ispainted = true;
+            m_ObjectCollider.isTrigger = true;
+        }
     }
 }

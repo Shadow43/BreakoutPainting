@@ -60,4 +60,8 @@ public class PlayerLife : MonoBehaviour
         image = GetComponent<Image>();
         image.color = new Color(0, 0, 0, AlphaTransparancy);
     }
+    public void OnPlayerPaint()
+    {
+        AlphaTransparancy -= 0.05f;
+    }
 }
