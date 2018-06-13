@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class PlayerLife : MonoBehaviour
@@ -11,8 +12,6 @@ public class PlayerLife : MonoBehaviour
     public float AlphaTransparancy;
     public bool playerdead;
     public GameObject hallucinations;
-    public GameObject painting;
-    public Text introtext;
     public bool gamestarted;
     public float hallucinationtimer;
     public float hallucinationlength = 5f;
@@ -52,6 +51,14 @@ public class PlayerLife : MonoBehaviour
         {
             hallucinations.SetActive(false);
         }
+        if (hallucinations.active == true && playerdead == true)
+        {
+            hallucinations.SetActive(false);
+        }
+        if (playerdead == true)
+        {
+            SceneManager.LoadScene("GameOver", LoadSceneMode.Additive);
+        }
 
     }
     public void OnPlayerDeath()
@@ -63,5 +70,9 @@ public class PlayerLife : MonoBehaviour
     public void OnPlayerPaint()
     {
         AlphaTransparancy -= 0.05f;
+    }
+    public void StarttheGame()
+    {
+        gamestarted = true;
     }
 }

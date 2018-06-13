@@ -131,7 +131,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1469452
 Transform:
   m_ObjectHideFlags: 0
@@ -157,7 +157,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1469454
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -243,7 +242,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &30284994
 Transform:
   m_ObjectHideFlags: 0
@@ -269,7 +268,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &30284996
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -345,7 +343,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &39285666
 Transform:
   m_ObjectHideFlags: 0
@@ -371,7 +369,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &39285668
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -457,7 +454,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &47184837
 Transform:
   m_ObjectHideFlags: 0
@@ -483,7 +480,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &47184839
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -569,7 +565,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &49847277
 Transform:
   m_ObjectHideFlags: 0
@@ -595,7 +591,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &49847279
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -905,7 +900,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &71068748
 Transform:
   m_ObjectHideFlags: 0
@@ -931,7 +926,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &71068750
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1017,7 +1011,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &90681421
 Transform:
   m_ObjectHideFlags: 0
@@ -1043,7 +1037,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &90681423
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1129,7 +1122,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &97584032
 Transform:
   m_ObjectHideFlags: 0
@@ -1170,7 +1163,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &97584035
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1231,7 +1223,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &98863708
 Transform:
   m_ObjectHideFlags: 0
@@ -1272,7 +1264,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &98863711
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1333,7 +1324,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &99084225
 Transform:
   m_ObjectHideFlags: 0
@@ -1374,7 +1365,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &99084228
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1435,7 +1425,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &104855876
 Transform:
   m_ObjectHideFlags: 0
@@ -1461,7 +1451,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &104855878
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1547,7 +1536,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &113362618
 Transform:
   m_ObjectHideFlags: 0
@@ -1573,7 +1562,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &113362620
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1659,7 +1647,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &123417656
 Transform:
   m_ObjectHideFlags: 0
@@ -1700,7 +1688,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &123417659
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1761,7 +1748,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &124485187
 Transform:
   m_ObjectHideFlags: 0
@@ -1802,7 +1789,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &124485190
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1863,7 +1849,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &124581306
 Transform:
   m_ObjectHideFlags: 0
@@ -1889,7 +1875,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &124581308
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1975,7 +1960,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &141190774
 Transform:
   m_ObjectHideFlags: 0
@@ -2001,7 +1986,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &141190776
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2087,7 +2071,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &149451381
 Transform:
   m_ObjectHideFlags: 0
@@ -2128,7 +2112,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &149451384
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2189,7 +2172,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &152901565
 Transform:
   m_ObjectHideFlags: 0
@@ -2215,7 +2198,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &152901567
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2301,7 +2283,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &155554209
 Transform:
   m_ObjectHideFlags: 0
@@ -2327,7 +2309,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &155554211
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2413,7 +2394,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &163551872
 Transform:
   m_ObjectHideFlags: 0
@@ -2454,7 +2435,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &163551875
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -2515,7 +2495,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &168992107
 Transform:
   m_ObjectHideFlags: 0
@@ -2541,7 +2521,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &168992109
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2617,7 +2596,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &179982202
 Transform:
   m_ObjectHideFlags: 0
@@ -2643,7 +2622,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &179982204
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2797,7 +2775,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &188525872
 Transform:
   m_ObjectHideFlags: 0
@@ -2823,7 +2801,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &188525874
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2909,7 +2886,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &222822386
 Transform:
   m_ObjectHideFlags: 0
@@ -2950,7 +2927,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &222822389
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3011,7 +2987,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &232255612
 Transform:
   m_ObjectHideFlags: 0
@@ -3037,7 +3013,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &232255614
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3123,7 +3098,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &238815820
 Transform:
   m_ObjectHideFlags: 0
@@ -3149,7 +3124,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &238815822
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3235,7 +3209,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &253162614
 Transform:
   m_ObjectHideFlags: 0
@@ -3261,7 +3235,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &253162616
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3347,7 +3320,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &261082618
 Transform:
   m_ObjectHideFlags: 0
@@ -3388,7 +3361,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &261082621
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3449,7 +3421,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &263170555
 Transform:
   m_ObjectHideFlags: 0
@@ -3490,7 +3462,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &263170558
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3551,7 +3522,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &285357162
 Transform:
   m_ObjectHideFlags: 0
@@ -3592,7 +3563,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &285357165
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3653,7 +3623,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &289153143
 Transform:
   m_ObjectHideFlags: 0
@@ -3679,7 +3649,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &289153145
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3765,7 +3734,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &297154781
 Transform:
   m_ObjectHideFlags: 0
@@ -3791,7 +3760,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &297154783
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3877,7 +3845,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &298246765
 Transform:
   m_ObjectHideFlags: 0
@@ -3903,7 +3871,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &298246767
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3989,7 +3956,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &306844943
 Transform:
   m_ObjectHideFlags: 0
@@ -4030,7 +3997,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &306844946
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4091,7 +4057,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &307947638
 Transform:
   m_ObjectHideFlags: 0
@@ -4117,7 +4083,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &307947640
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4203,7 +4168,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &339159877
 Transform:
   m_ObjectHideFlags: 0
@@ -4229,7 +4194,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &339159879
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4315,7 +4279,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &342462275
 Transform:
   m_ObjectHideFlags: 0
@@ -4356,7 +4320,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &342462278
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4417,7 +4380,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &347596725
 Transform:
   m_ObjectHideFlags: 0
@@ -4458,7 +4421,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &347596728
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4519,7 +4481,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &359093256
 Transform:
   m_ObjectHideFlags: 0
@@ -4560,7 +4522,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &359093259
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4621,7 +4582,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &419197913
 Transform:
   m_ObjectHideFlags: 0
@@ -4647,7 +4608,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &419197915
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4733,7 +4693,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &422731777
 Transform:
   m_ObjectHideFlags: 0
@@ -4774,7 +4734,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &422731780
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4835,7 +4794,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &430884615
 Transform:
   m_ObjectHideFlags: 0
@@ -4861,7 +4820,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &430884617
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -4937,7 +4895,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &431178903
 Transform:
   m_ObjectHideFlags: 0
@@ -4963,7 +4921,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &431178905
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5049,7 +5006,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &435319670
 Transform:
   m_ObjectHideFlags: 0
@@ -5090,7 +5047,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &435319673
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5151,7 +5107,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &436444940
 Transform:
   m_ObjectHideFlags: 0
@@ -5192,7 +5148,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &436444943
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5253,7 +5208,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &479308736
 Transform:
   m_ObjectHideFlags: 0
@@ -5279,7 +5234,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &479308738
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5365,7 +5319,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &480194649
 Transform:
   m_ObjectHideFlags: 0
@@ -5391,7 +5345,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &480194651
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5477,7 +5430,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &493876771
 Transform:
   m_ObjectHideFlags: 0
@@ -5503,7 +5456,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &493876773
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5588,7 +5540,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &496689075
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5605,7 +5557,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 40}
+  m_AnchoredPosition: {x: 0, y: -264}
   m_SizeDelta: {x: 80, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &496689076
@@ -5647,12 +5599,12 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: 
+      - m_Target: {fileID: 1854874403}
+        m_MethodName: onclick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -5784,7 +5736,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &527953331
 Transform:
   m_ObjectHideFlags: 0
@@ -5810,7 +5762,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &527953333
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5886,7 +5837,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &533879019
 Transform:
   m_ObjectHideFlags: 0
@@ -5927,7 +5878,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &533879022
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5988,7 +5938,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &535353811
 Transform:
   m_ObjectHideFlags: 0
@@ -6029,7 +5979,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &535353814
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6090,7 +6039,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &539786005
 Transform:
   m_ObjectHideFlags: 0
@@ -6116,7 +6065,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &539786007
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6202,7 +6150,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &552330602
 Transform:
   m_ObjectHideFlags: 0
@@ -6228,7 +6176,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &552330604
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6314,7 +6261,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &560853450
 Transform:
   m_ObjectHideFlags: 0
@@ -6340,7 +6287,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &560853452
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6426,7 +6372,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &566519554
 Transform:
   m_ObjectHideFlags: 0
@@ -6452,7 +6398,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &566519556
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6538,7 +6483,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &579431048
 Transform:
   m_ObjectHideFlags: 0
@@ -6564,7 +6509,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &579431050
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6650,7 +6594,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &587197370
 Transform:
   m_ObjectHideFlags: 0
@@ -6691,7 +6635,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &587197373
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6752,7 +6695,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &593432914
 Transform:
   m_ObjectHideFlags: 0
@@ -6778,7 +6721,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &593432916
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6864,7 +6806,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &608126570
 Transform:
   m_ObjectHideFlags: 0
@@ -6905,7 +6847,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &608126573
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6966,7 +6907,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &614229788
 Transform:
   m_ObjectHideFlags: 0
@@ -6992,7 +6933,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &614229790
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7078,7 +7018,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &617018127
 Transform:
   m_ObjectHideFlags: 0
@@ -7104,7 +7044,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &617018129
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7190,7 +7129,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &626061457
 Transform:
   m_ObjectHideFlags: 0
@@ -7231,7 +7170,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &626061460
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7320,7 +7258,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &631002514
 Transform:
   m_ObjectHideFlags: 0
@@ -7361,7 +7299,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &631002517
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7422,7 +7359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &634381550
 Transform:
   m_ObjectHideFlags: 0
@@ -7448,7 +7385,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &634381552
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7534,7 +7470,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &642439213
 Transform:
   m_ObjectHideFlags: 0
@@ -7575,7 +7511,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &642439216
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7636,7 +7571,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &649232815
 Transform:
   m_ObjectHideFlags: 0
@@ -7677,7 +7612,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &649232818
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7738,7 +7672,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &652116454
 Transform:
   m_ObjectHideFlags: 0
@@ -7779,7 +7713,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &652116457
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7840,7 +7773,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &657142157
 Transform:
   m_ObjectHideFlags: 0
@@ -7866,7 +7799,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &657142159
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7952,7 +7884,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &668113158
 Transform:
   m_ObjectHideFlags: 0
@@ -7993,7 +7925,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &668113161
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8054,7 +7985,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &687683547
 Transform:
   m_ObjectHideFlags: 0
@@ -8080,7 +8011,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &687683549
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -8156,7 +8086,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &699019659
 Transform:
   m_ObjectHideFlags: 0
@@ -8182,7 +8112,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &699019661
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8268,7 +8197,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &709570624
 Transform:
   m_ObjectHideFlags: 0
@@ -8294,7 +8223,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &709570626
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8380,7 +8308,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &713753512
 Transform:
   m_ObjectHideFlags: 0
@@ -8406,7 +8334,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &713753514
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8492,7 +8419,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &715852001
 Transform:
   m_ObjectHideFlags: 0
@@ -8518,7 +8445,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &715852003
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8604,7 +8530,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &728498247
 Transform:
   m_ObjectHideFlags: 0
@@ -8645,7 +8571,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &728498250
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8706,7 +8631,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &733788161
 Transform:
   m_ObjectHideFlags: 0
@@ -8732,7 +8657,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &733788163
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8818,7 +8742,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &776540421
 Transform:
   m_ObjectHideFlags: 0
@@ -8844,7 +8768,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &776540423
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8930,7 +8853,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &786007652
 Transform:
   m_ObjectHideFlags: 0
@@ -8956,7 +8879,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &786007654
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9042,7 +8964,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &787282894
 Transform:
   m_ObjectHideFlags: 0
@@ -9083,7 +9005,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &787282897
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9212,7 +9133,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &810278100
 Transform:
   m_ObjectHideFlags: 0
@@ -9238,7 +9159,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &810278102
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9324,7 +9244,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &811167754
 Transform:
   m_ObjectHideFlags: 0
@@ -9365,7 +9285,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &811167757
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9426,7 +9345,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &823002949
 Transform:
   m_ObjectHideFlags: 0
@@ -9467,7 +9386,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &823002952
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9528,7 +9446,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &837937709
 Transform:
   m_ObjectHideFlags: 0
@@ -9554,7 +9472,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &837937711
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -9630,7 +9547,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &871383889
 Transform:
   m_ObjectHideFlags: 0
@@ -9671,7 +9588,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &871383892
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9732,7 +9648,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &876389164
 Transform:
   m_ObjectHideFlags: 0
@@ -9758,7 +9674,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &876389166
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9844,7 +9759,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &883956938
 Transform:
   m_ObjectHideFlags: 0
@@ -9870,7 +9785,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &883956940
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9956,7 +9870,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &887317355
 Transform:
   m_ObjectHideFlags: 0
@@ -9982,7 +9896,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &887317357
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10068,7 +9981,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &894565660
 Transform:
   m_ObjectHideFlags: 0
@@ -10094,7 +10007,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &894565662
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10180,7 +10092,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &897192890
 Transform:
   m_ObjectHideFlags: 0
@@ -10206,7 +10118,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &897192892
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10292,7 +10203,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &902944249
 Transform:
   m_ObjectHideFlags: 0
@@ -10333,7 +10244,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &902944252
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10394,7 +10304,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &908187865
 Transform:
   m_ObjectHideFlags: 0
@@ -10420,7 +10330,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &908187867
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10609,7 +10518,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &923549508
 Transform:
   m_ObjectHideFlags: 0
@@ -10650,7 +10559,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &923549511
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10711,7 +10619,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &925475023
 Transform:
   m_ObjectHideFlags: 0
@@ -10752,7 +10660,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &925475026
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10813,7 +10720,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &937483281
 Transform:
   m_ObjectHideFlags: 0
@@ -10839,7 +10746,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &937483283
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10925,7 +10831,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &945940024
 Transform:
   m_ObjectHideFlags: 0
@@ -10951,7 +10857,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &945940026
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11037,7 +10942,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &965360413
 Transform:
   m_ObjectHideFlags: 0
@@ -11078,7 +10983,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &965360416
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11139,7 +11043,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &965423789
 Transform:
   m_ObjectHideFlags: 0
@@ -11180,7 +11084,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &965423792
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11241,7 +11144,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &967852074
 Transform:
   m_ObjectHideFlags: 0
@@ -11267,7 +11170,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &967852076
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -11343,7 +11245,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &990040600
 Transform:
   m_ObjectHideFlags: 0
@@ -11384,7 +11286,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &990040603
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11445,7 +11346,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &990165962
 Transform:
   m_ObjectHideFlags: 0
@@ -11486,7 +11387,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &990165965
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11547,7 +11447,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &997617999
 Transform:
   m_ObjectHideFlags: 0
@@ -11588,7 +11488,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &997618002
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11649,7 +11548,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &998980936
 Transform:
   m_ObjectHideFlags: 0
@@ -11690,7 +11589,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &998980939
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11751,7 +11649,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1009356474
 Transform:
   m_ObjectHideFlags: 0
@@ -11792,7 +11690,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1009356477
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11853,7 +11750,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1024392422
 Transform:
   m_ObjectHideFlags: 0
@@ -11879,7 +11776,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1024392424
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11963,7 +11859,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1034025701
 RectTransform:
   m_ObjectHideFlags: 0
@@ -11972,15 +11868,15 @@ RectTransform:
   m_GameObject: {fileID: 1034025700}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.6999733, y: 1.5984124, z: 1}
   m_Children: []
   m_Father: {fileID: 1473616049}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 167}
-  m_SizeDelta: {x: 200, y: 180}
+  m_AnchoredPosition: {x: 0, y: 62}
+  m_SizeDelta: {x: 200, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1034025702
 MonoBehaviour:
@@ -12015,7 +11911,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 'You are the japanese painter Kusama Yayoi. You need to paint to live. If
-    you do not paint. Game over will occur.
+    you do not paint. you will die and will loose the game.
 
 
     Beware that you will have polka dot hallucinations pop up from time to time that
@@ -12023,7 +11919,11 @@ MonoBehaviour:
 
 
     Press 1-5 to select the paint then press space bar to start launching the ball
-    to paint.'
+    to paint.
+
+
+    When you click on start game, you will see an example picture that will needed
+    to be painted. You can choose any color you desire for the painting.'
 --- !u!222 &1034025703
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12048,7 +11948,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1034986825
 Transform:
   m_ObjectHideFlags: 0
@@ -12089,7 +11989,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1034986828
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12150,7 +12049,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1051228750
 Transform:
   m_ObjectHideFlags: 0
@@ -12176,7 +12075,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1051228752
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12262,7 +12160,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1064532933
 Transform:
   m_ObjectHideFlags: 0
@@ -12288,7 +12186,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1064532935
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12374,7 +12271,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1070461027
 Transform:
   m_ObjectHideFlags: 0
@@ -12415,7 +12312,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1070461030
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12476,7 +12372,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1082420006
 Transform:
   m_ObjectHideFlags: 0
@@ -12517,7 +12413,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1082420009
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12578,7 +12473,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1110107108
 Transform:
   m_ObjectHideFlags: 0
@@ -12619,7 +12514,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1110107111
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12680,7 +12574,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1113639073
 Transform:
   m_ObjectHideFlags: 0
@@ -12706,7 +12600,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1113639075
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12792,7 +12685,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1125949523
 Transform:
   m_ObjectHideFlags: 0
@@ -12818,7 +12711,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1125949525
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12904,7 +12796,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1137155356
 Transform:
   m_ObjectHideFlags: 0
@@ -12930,7 +12822,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1137155358
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13016,7 +12907,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1153848316
 Transform:
   m_ObjectHideFlags: 0
@@ -13042,7 +12933,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &1153848318
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -13118,7 +13008,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1157077502
 Transform:
   m_ObjectHideFlags: 0
@@ -13159,7 +13049,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1157077505
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13220,7 +13109,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1158489226
 Transform:
   m_ObjectHideFlags: 0
@@ -13261,7 +13150,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1158489229
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13322,7 +13210,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1160569146
 Transform:
   m_ObjectHideFlags: 0
@@ -13348,7 +13236,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1160569148
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13434,7 +13321,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1162030067
 Transform:
   m_ObjectHideFlags: 0
@@ -13460,7 +13347,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1162030069
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13578,7 +13464,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1180178045
 Transform:
   m_ObjectHideFlags: 0
@@ -13619,7 +13505,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1180178048
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13680,7 +13565,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1187829130
 Transform:
   m_ObjectHideFlags: 0
@@ -13706,7 +13591,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1187829132
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13792,7 +13676,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1207064931
 Transform:
   m_ObjectHideFlags: 0
@@ -13833,7 +13717,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1207064934
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13956,7 +13839,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1232078024
 Transform:
   m_ObjectHideFlags: 0
@@ -13997,7 +13880,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1232078027
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14058,7 +13940,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1252470016
 Transform:
   m_ObjectHideFlags: 0
@@ -14099,7 +13981,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1252470019
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14160,7 +14041,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1266275980
 Transform:
   m_ObjectHideFlags: 0
@@ -14186,7 +14067,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1266275982
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14396,7 +14276,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1295328755
 Transform:
   m_ObjectHideFlags: 0
@@ -14437,7 +14317,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1295328758
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14498,7 +14377,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1306402398
 Transform:
   m_ObjectHideFlags: 0
@@ -14524,7 +14403,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1306402400
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14610,7 +14488,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1306822680
 Transform:
   m_ObjectHideFlags: 0
@@ -14651,7 +14529,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1306822683
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14712,7 +14589,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1329526339
 Transform:
   m_ObjectHideFlags: 0
@@ -14738,7 +14615,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &1329526341
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -14814,7 +14690,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1334337471
 Transform:
   m_ObjectHideFlags: 0
@@ -14855,7 +14731,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1334337474
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -14916,7 +14791,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1340982318
 Transform:
   m_ObjectHideFlags: 0
@@ -14957,7 +14832,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1340982321
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15018,7 +14892,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1353072445
 Transform:
   m_ObjectHideFlags: 0
@@ -15059,7 +14933,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1353072448
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15120,7 +14993,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1367523897
 Transform:
   m_ObjectHideFlags: 0
@@ -15146,7 +15019,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &1367523899
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -15222,7 +15094,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1369841210
 Transform:
   m_ObjectHideFlags: 0
@@ -15263,7 +15135,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1369841213
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15324,7 +15195,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1380392020
 Transform:
   m_ObjectHideFlags: 0
@@ -15350,7 +15221,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &1380392022
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -15426,7 +15296,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1380525480
 Transform:
   m_ObjectHideFlags: 0
@@ -15452,7 +15322,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1380525482
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15609,6 +15478,7 @@ RectTransform:
   - {fileID: 799810892}
   - {fileID: 1034025701}
   - {fileID: 496689075}
+  - {fileID: 1854874402}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -15773,13 +15643,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   time: 0
-  deathupdate: 50.1
+  deathupdate: 20.1
   image: {fileID: 1476194210}
   AlphaTransparancy: 0
   playerdead: 0
   hallucinations: {fileID: 187610183}
-  painting: {fileID: 799810891}
-  introtext: {fileID: 1034025702}
   gamestarted: 0
   hallucinationtimer: 0
   hallucinationlength: 5
@@ -15801,7 +15669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1481247411
 Transform:
   m_ObjectHideFlags: 0
@@ -15842,7 +15710,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1481247414
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15903,7 +15770,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1487253171
 Transform:
   m_ObjectHideFlags: 0
@@ -15929,7 +15796,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1487253173
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16015,7 +15881,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1513473111
 Transform:
   m_ObjectHideFlags: 0
@@ -16056,7 +15922,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1513473114
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16241,7 +16106,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1527270800
 Transform:
   m_ObjectHideFlags: 0
@@ -16267,7 +16132,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1527270802
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16353,7 +16217,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1529629078
 Transform:
   m_ObjectHideFlags: 0
@@ -16394,7 +16258,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1529629081
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16455,7 +16318,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1531295744
 Transform:
   m_ObjectHideFlags: 0
@@ -16481,7 +16344,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1531295746
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16567,7 +16429,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1531538351
 Transform:
   m_ObjectHideFlags: 0
@@ -16593,7 +16455,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &1531538353
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -16669,7 +16530,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1534025209
 Transform:
   m_ObjectHideFlags: 0
@@ -16710,7 +16571,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1534025212
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16771,7 +16631,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1570792319
 Transform:
   m_ObjectHideFlags: 0
@@ -16812,7 +16672,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1570792322
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16873,7 +16732,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1582585872
 Transform:
   m_ObjectHideFlags: 0
@@ -16914,7 +16773,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1582585875
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16975,7 +16833,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1597083606
 Transform:
   m_ObjectHideFlags: 0
@@ -17016,7 +16874,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1597083609
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17077,7 +16934,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1597322434
 Transform:
   m_ObjectHideFlags: 0
@@ -17103,7 +16960,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &1597322436
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -17179,7 +17035,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1606324922
 Transform:
   m_ObjectHideFlags: 0
@@ -17220,7 +17076,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1606324925
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17281,7 +17136,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1611325538
 Transform:
   m_ObjectHideFlags: 0
@@ -17307,7 +17162,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1611325540
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17393,7 +17247,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1653552763
 Transform:
   m_ObjectHideFlags: 0
@@ -17434,7 +17288,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1653552766
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17495,7 +17348,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1655653350
 Transform:
   m_ObjectHideFlags: 0
@@ -17521,7 +17374,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1655653352
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17607,7 +17459,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1663487999
 Transform:
   m_ObjectHideFlags: 0
@@ -17633,7 +17485,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!58 &1663488001
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -17709,7 +17560,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1669362062
 Transform:
   m_ObjectHideFlags: 0
@@ -17735,7 +17586,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1669362064
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17821,7 +17671,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1702718106
 Transform:
   m_ObjectHideFlags: 0
@@ -17847,7 +17697,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1702718108
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17933,7 +17782,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1744974383
 Transform:
   m_ObjectHideFlags: 0
@@ -17974,7 +17823,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1744974386
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18035,7 +17883,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1753975519
 Transform:
   m_ObjectHideFlags: 0
@@ -18076,7 +17924,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1753975522
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18137,7 +17984,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1754739240
 Transform:
   m_ObjectHideFlags: 0
@@ -18178,7 +18025,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1754739243
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18239,7 +18085,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1761081038
 Transform:
   m_ObjectHideFlags: 0
@@ -18265,7 +18111,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1761081040
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18351,7 +18196,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1765411119
 Transform:
   m_ObjectHideFlags: 0
@@ -18377,7 +18222,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1765411121
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18463,7 +18307,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1766007863
 Transform:
   m_ObjectHideFlags: 0
@@ -18504,7 +18348,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1766007866
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18565,7 +18408,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1770539067
 Transform:
   m_ObjectHideFlags: 0
@@ -18591,7 +18434,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1770539069
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18677,7 +18519,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1775089740
 Transform:
   m_ObjectHideFlags: 0
@@ -18703,7 +18545,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1775089742
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18789,7 +18630,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1776221857
 Transform:
   m_ObjectHideFlags: 0
@@ -18815,7 +18656,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1776221859
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18901,7 +18741,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1778370448
 Transform:
   m_ObjectHideFlags: 0
@@ -18927,7 +18767,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1778370450
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19013,7 +18852,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1780587790
 Transform:
   m_ObjectHideFlags: 0
@@ -19039,7 +18878,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1780587792
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19125,7 +18963,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1802031778
 Transform:
   m_ObjectHideFlags: 0
@@ -19151,7 +18989,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1802031780
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19237,7 +19074,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1811354106
 Transform:
   m_ObjectHideFlags: 0
@@ -19263,7 +19100,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1811354108
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19349,7 +19185,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1818845475
 Transform:
   m_ObjectHideFlags: 0
@@ -19390,7 +19226,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1818845478
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19451,7 +19286,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1823099326
 Transform:
   m_ObjectHideFlags: 0
@@ -19492,7 +19327,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1823099329
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19553,7 +19387,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1829272456
 Transform:
   m_ObjectHideFlags: 0
@@ -19594,7 +19428,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1829272459
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19655,7 +19488,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1851806971
 Transform:
   m_ObjectHideFlags: 0
@@ -19681,7 +19514,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1851806973
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19749,6 +19581,256 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1851806970}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1854874401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1854874402}
+  - component: {fileID: 1854874403}
+  m_Layer: 5
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1854874402
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1854874401}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1473616049}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1854874403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1854874401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 938227df857719149a083e5be7008aba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timer: 0
+  timerend: 2
+  startinggame: 0
+  pictureshown: 0
+  startgame: {fileID: 496689074}
+  paintingblocks:
+  - {fileID: 1266275979}
+  - {fileID: 168992106}
+  - {fileID: 480194648}
+  - {fileID: 687683546}
+  - {fileID: 2112970405}
+  - {fileID: 1531538350}
+  - {fileID: 883956937}
+  - {fileID: 1663487998}
+  - {fileID: 1125949522}
+  - {fileID: 430884614}
+  - {fileID: 1761081037}
+  - {fileID: 527953330}
+  - {fileID: 634381549}
+  - {fileID: 30284993}
+  - {fileID: 566519553}
+  - {fileID: 1153848315}
+  - {fileID: 2052617750}
+  - {fileID: 1597322433}
+  - {fileID: 897192889}
+  - {fileID: 837937708}
+  - {fileID: 155554208}
+  - {fileID: 1380392019}
+  - {fileID: 1775089739}
+  - {fileID: 1329526338}
+  - {fileID: 141190773}
+  - {fileID: 967852073}
+  - {fileID: 298246764}
+  - {fileID: 1367523896}
+  - {fileID: 253162613}
+  - {fileID: 342462274}
+  - {fileID: 1611325537}
+  - {fileID: 990165961}
+  - {fileID: 1380525479}
+  - {fileID: 1513473110}
+  - {fileID: 593432913}
+  - {fileID: 1306822679}
+  - {fileID: 113362617}
+  - {fileID: 1744974382}
+  - {fileID: 188525871}
+  - {fileID: 728498246}
+  - {fileID: 810278099}
+  - {fileID: 1082420005}
+  - {fileID: 297154780}
+  - {fileID: 1653552762}
+  - {fileID: 289153142}
+  - {fileID: 1932806893}
+  - {fileID: 709570623}
+  - {fileID: 1252470015}
+  - {fileID: 786007651}
+  - {fileID: 535353810}
+  - {fileID: 1669362061}
+  - {fileID: 1295328754}
+  - {fileID: 937483280}
+  - {fileID: 1582585871}
+  - {fileID: 1944825359}
+  - {fileID: 925475022}
+  - {fileID: 579431047}
+  - {fileID: 990040599}
+  - {fileID: 2054671930}
+  - {fileID: 1110107107}
+  - {fileID: 2143077853}
+  - {fileID: 823002948}
+  - {fileID: 90681420}
+  - {fileID: 2012826203}
+  - {fileID: 733788160}
+  - {fileID: 1753975518}
+  - {fileID: 715852000}
+  - {fileID: 124485186}
+  - {fileID: 539786004}
+  - {fileID: 306844942}
+  - {fileID: 339159876}
+  - {fileID: 1818845474}
+  - {fileID: 232255611}
+  - {fileID: 436444939}
+  - {fileID: 699019658}
+  - {fileID: 1353072444}
+  - {fileID: 1778370447}
+  - {fileID: 668113157}
+  - {fileID: 104855875}
+  - {fileID: 2131283209}
+  - {fileID: 560853449}
+  - {fileID: 1340982317}
+  - {fileID: 2103477726}
+  - {fileID: 1570792318}
+  - {fileID: 238815819}
+  - {fileID: 649232814}
+  - {fileID: 1187829129}
+  - {fileID: 1597083605}
+  - {fileID: 2137713034}
+  - {fileID: 965423788}
+  - {fileID: 1527270799}
+  - {fileID: 1894384176}
+  - {fileID: 49847276}
+  - {fileID: 998980935}
+  - {fileID: 1770539066}
+  - {fileID: 263170554}
+  - {fileID: 39285665}
+  - {fileID: 652116453}
+  - {fileID: 776540420}
+  - {fileID: 1334337470}
+  - {fileID: 1064532932}
+  - {fileID: 1481247410}
+  - {fileID: 152901564}
+  - {fileID: 642439212}
+  - {fileID: 71068747}
+  - {fileID: 1754739239}
+  - {fileID: 887317354}
+  - {fileID: 626061456}
+  - {fileID: 1851806970}
+  - {fileID: 1893048254}
+  - {fileID: 2110627301}
+  - {fileID: 149451380}
+  - {fileID: 1776221856}
+  - {fileID: 533879018}
+  - {fileID: 1487253170}
+  - {fileID: 1369841209}
+  - {fileID: 1531295743}
+  - {fileID: 631002513}
+  - {fileID: 2077116559}
+  - {fileID: 435319669}
+  - {fileID: 657142156}
+  - {fileID: 608126569}
+  - {fileID: 493876770}
+  - {fileID: 1823099325}
+  - {fileID: 431178902}
+  - {fileID: 2084088364}
+  - {fileID: 1979770508}
+  - {fileID: 163551871}
+  - {fileID: 2031325090}
+  - {fileID: 422731776}
+  - {fileID: 552330601}
+  - {fileID: 1009356473}
+  - {fileID: 124581305}
+  - {fileID: 1529629077}
+  - {fileID: 1888328311}
+  - {fileID: 902944248}
+  - {fileID: 1162030066}
+  - {fileID: 347596724}
+  - {fileID: 307947637}
+  - {fileID: 1766007862}
+  - {fileID: 876389163}
+  - {fileID: 1180178044}
+  - {fileID: 419197912}
+  - {fileID: 587197369}
+  - {fileID: 713753511}
+  - {fileID: 123417655}
+  - {fileID: 894565659}
+  - {fileID: 997617998}
+  - {fileID: 1802031777}
+  - {fileID: 222822385}
+  - {fileID: 1702718105}
+  - {fileID: 1070461026}
+  - {fileID: 1780587789}
+  - {fileID: 965360412}
+  - {fileID: 1888837621}
+  - {fileID: 1207064930}
+  - {fileID: 1811354105}
+  - {fileID: 1232078023}
+  - {fileID: 945940023}
+  - {fileID: 1158489225}
+  - {fileID: 1160569145}
+  - {fileID: 261082617}
+  - {fileID: 47184836}
+  - {fileID: 285357161}
+  - {fileID: 1024392421}
+  - {fileID: 97584031}
+  - {fileID: 617018126}
+  - {fileID: 2136637250}
+  - {fileID: 908187864}
+  - {fileID: 98863707}
+  - {fileID: 2107956323}
+  - {fileID: 787282893}
+  - {fileID: 1469451}
+  - {fileID: 1157077501}
+  - {fileID: 2094393802}
+  - {fileID: 1829272455}
+  - {fileID: 1113639072}
+  - {fileID: 1034986824}
+  - {fileID: 479308735}
+  - {fileID: 359093255}
+  - {fileID: 1137155355}
+  - {fileID: 1534025208}
+  - {fileID: 1894720006}
+  - {fileID: 923549507}
+  - {fileID: 1655653349}
+  - {fileID: 1606324921}
+  - {fileID: 614229787}
+  - {fileID: 2089102965}
+  - {fileID: 1306402397}
+  - {fileID: 811167753}
+  - {fileID: 179982201}
+  - {fileID: 871383888}
+  - {fileID: 1051228749}
+  - {fileID: 99084224}
+  - {fileID: 1765411118}
+  - {fileID: 1858888499}
+  painting: {fileID: 799810891}
+  introtext: {fileID: 1034025702}
+  paddleplayer: {fileID: 1956695463}
 --- !u!1 &1858888499
 GameObject:
   m_ObjectHideFlags: 0
@@ -19767,7 +19849,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1858888500
 Transform:
   m_ObjectHideFlags: 0
@@ -19808,7 +19890,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1858888503
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19869,7 +19950,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1888328312
 Transform:
   m_ObjectHideFlags: 0
@@ -19895,7 +19976,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1888328314
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19981,7 +20061,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1888837622
 Transform:
   m_ObjectHideFlags: 0
@@ -20007,7 +20087,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1888837624
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20093,7 +20172,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1893048255
 Transform:
   m_ObjectHideFlags: 0
@@ -20134,7 +20213,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1893048258
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20195,7 +20273,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1894384177
 Transform:
   m_ObjectHideFlags: 0
@@ -20236,7 +20314,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1894384180
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20297,7 +20374,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1894720007
 Transform:
   m_ObjectHideFlags: 0
@@ -20323,7 +20400,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1894720009
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20409,7 +20485,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1932806894
 Transform:
   m_ObjectHideFlags: 0
@@ -20450,7 +20526,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &1932806897
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20511,7 +20586,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1944825360
 Transform:
   m_ObjectHideFlags: 0
@@ -20537,7 +20612,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1944825362
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20624,7 +20698,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!50 &1956695464
 Rigidbody2D:
   serializedVersion: 4
@@ -20884,7 +20958,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1979770509
 Transform:
   m_ObjectHideFlags: 0
@@ -20910,7 +20984,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &1979770511
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20996,7 +21069,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2012826204
 Transform:
   m_ObjectHideFlags: 0
@@ -21037,7 +21110,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &2012826207
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21098,7 +21170,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2031325091
 Transform:
   m_ObjectHideFlags: 0
@@ -21124,7 +21196,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2031325093
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21210,7 +21281,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2052617751
 Transform:
   m_ObjectHideFlags: 0
@@ -21236,7 +21307,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2052617753
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21322,7 +21392,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2054671931
 Transform:
   m_ObjectHideFlags: 0
@@ -21348,7 +21418,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2054671933
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21434,7 +21503,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2077116560
 Transform:
   m_ObjectHideFlags: 0
@@ -21460,7 +21529,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2077116562
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21546,7 +21614,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2084088365
 Transform:
   m_ObjectHideFlags: 0
@@ -21587,7 +21655,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &2084088368
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21648,7 +21715,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2089102966
 Transform:
   m_ObjectHideFlags: 0
@@ -21689,7 +21756,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &2089102969
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21750,7 +21816,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2094393803
 Transform:
   m_ObjectHideFlags: 0
@@ -21776,7 +21842,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2094393805
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21862,7 +21927,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2103477727
 Transform:
   m_ObjectHideFlags: 0
@@ -21888,7 +21953,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2103477729
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -21974,7 +22038,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2107956324
 Transform:
   m_ObjectHideFlags: 0
@@ -22000,7 +22064,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2107956326
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22086,7 +22149,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2110627302
 Transform:
   m_ObjectHideFlags: 0
@@ -22112,7 +22175,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2110627304
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22198,7 +22260,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2112970406
 Transform:
   m_ObjectHideFlags: 0
@@ -22224,7 +22286,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2112970408
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22310,7 +22371,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2131283210
 Transform:
   m_ObjectHideFlags: 0
@@ -22351,7 +22412,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &2131283213
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22412,7 +22472,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2136637251
 Transform:
   m_ObjectHideFlags: 0
@@ -22453,7 +22513,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!23 &2136637254
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22514,7 +22573,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2137713035
 Transform:
   m_ObjectHideFlags: 0
@@ -22540,7 +22599,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2137713037
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22626,7 +22684,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2143077854
 Transform:
   m_ObjectHideFlags: 0
@@ -22652,7 +22710,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 0}
-  paddle: {fileID: 0}
 --- !u!61 &2143077856
 BoxCollider2D:
   m_ObjectHideFlags: 0
