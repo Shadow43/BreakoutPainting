@@ -14,28 +14,30 @@ public class BallForce : MonoBehaviour {
     }
 
     // Update is called once per frame
-    void Update ()
+    void Update()
     {
         MaterialChange mc = GetComponent<MaterialChange>();
-        if (Input.GetKeyDown(KeyCode.Space) && gameStarted == false && !mc.IsMatZero())
+        if (Input.GetMouseButtonDown(0) && gameStarted == false && !mc.IsMatZero())
         {
+            {
                 rb.isKinematic = false;
                 rb.AddForce(new Vector2(ballForce, ballForce));
                 transform.SetParent(null);
                 gameStarted = true;
+            }
         }
     }
-    private void OnTriggerEnter2D(Collider2D col)
-    {
-        if (col.gameObject.tag == "Deathzone")
+        private void OnTriggerEnter2D(Collider2D col)
         {
-            Destroy(this.gameObject);
-            var p = FindObjectOfType<Player>();
-            p.OnPlayerDied();
-            var d = FindObjectOfType<PlayerLife>();
-            d.OnPlayerDeath();
+            if (col.gameObject.tag == "Deathzone")
+            {
+                Destroy(this.gameObject);
+                var p = FindObjectOfType<Player>();
+                p.OnPlayerDied();
+                var d = FindObjectOfType<PlayerLife>();
+                d.OnPlayerDeath();
+            }
         }
+
     }
 
-
-}

@@ -2,10 +2,23 @@ Tutorial for base breakout game:
 https://www.youtube.com/watch?v=1cfyxtuYPoE&list=PLytjVIyAOStoQ-FZt2caxAclj4qTjCJHQ
 
 
+
 Material change colour: 
 https://www.youtube.com/watch?v=dJB07ZSiW7k
+
 GameOver Picture: https://somekindafan1.deviantart.com/art/Rose-Horror-RPG-Maker-GameOver-Screen-1-355658374
+
 Polka dot example painting: https://www.publicdomainpictures.net/en/view-image.php?image=51728&picture=stripes-polka-dots-pattern
+
 Polka dot hallucinations: https://www.publicdomainpictures.net/en/view-image.php?image=30564&picture=orange-polka-dot-background
 
 
+
+You Win Picture: https://previews.123rf.com/images/fordzolo/fordzolo1701/fordzolo170100061/70770406-you-win-red-stamp-text-on-white-background.jpg
+
+Sound effects:
+https://www.zapsplat.com/sound-effect-category/paint/
+https://www.youtube.com/watch?v=rzhjY4ETXdA
+
+Music: by Fox Amoore
+http://www.furaffinity.net/view/22072200/

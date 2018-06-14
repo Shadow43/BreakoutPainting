@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Button : MonoBehaviour {
@@ -9,14 +10,17 @@ public class Button : MonoBehaviour {
     public bool startinggame;
     public bool pictureshown;
     public GameObject startgame;
+    public GameObject dacredits;
     public GameObject[] paintingblocks;
     public GameObject painting;
     public Text introtext;
     public GameObject paddleplayer;
+    AudioSource music;
 
     // Use this for initialization
     void Start() {
         startinggame = false;
+        music = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -39,11 +43,17 @@ public class Button : MonoBehaviour {
         }
     }
 
-    public void onclick()
+    public void Startgame()
     {
+        music.Play();
         introtext.GetComponent<Text>().enabled = false;
         painting.SetActive(true);
         startinggame = true;
+        dacredits.SetActive(false);
         startgame.SetActive(false);
+    }
+    public void Credits()
+    {
+        SceneManager.LoadScene("Credits");
     }
 }

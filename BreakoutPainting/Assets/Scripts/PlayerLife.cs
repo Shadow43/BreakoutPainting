@@ -14,7 +14,8 @@ public class PlayerLife : MonoBehaviour
     public GameObject hallucinations;
     public bool gamestarted;
     public float hallucinationtimer;
-    public float hallucinationlength = 5f;
+    public float hallucinationlength;
+
 
     // Use this for initialization
     void Start()
@@ -54,9 +55,6 @@ public class PlayerLife : MonoBehaviour
         if (hallucinations.active == true && playerdead == true)
         {
             hallucinations.SetActive(false);
-        }
-        if (playerdead == true)
-        {
             SceneManager.LoadScene("GameOver", LoadSceneMode.Additive);
         }
 

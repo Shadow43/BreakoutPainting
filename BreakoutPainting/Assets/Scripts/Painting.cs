@@ -6,11 +6,14 @@ public class Painting : MonoBehaviour {
     private bool ispainted = false;
     public GameObject ball;
     Collider2D m_ObjectCollider;
+    public AudioClip painting;
+    AudioSource audioSource;
 
     // Use this for initialization
     void Start() {
         m_ObjectCollider = GetComponent<Collider2D>();
         m_ObjectCollider.isTrigger = false;
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -24,6 +27,7 @@ public class Painting : MonoBehaviour {
     {
         if (ispainted == false)
         {
+            audioSource.PlayOneShot(painting);
             GetComponent<Renderer>().material.color = ball.GetComponent<Renderer>().material.GetColor("_Color");
             var p = FindObjectOfType<Player>();
             p.PanitedBlocks();
